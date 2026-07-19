@@ -1,0 +1,13 @@
+{
+  "name": "instagram-music-bot",
+  "version": "1.0.0",
+  "description": "Instagram video and music downloader bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0",
+    "axios": "^1.7.0"
+  }
+}
